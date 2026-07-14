@@ -50,4 +50,4 @@ entre os dois depende de qual erro custa mais caro para o negocio.
 
 ## Autoria
 
-Grupo Tech Challenge - Fase 2 - POSTECH DTAT.
+Grupo Tech Challenge 168 - Fase 2 - POSTECH DTAT.
